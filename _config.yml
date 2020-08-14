@@ -1,5 +1,3 @@
 name: Wenzhe Guo, personal website
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-slate
+permalink: /Blog/:year/:month/:day/:title
